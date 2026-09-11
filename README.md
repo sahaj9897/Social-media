@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎓 Vibelink
-
+**🔗 [Live Demo](https://social-media-seven-chi-77.vercel.app/)**
 ### An AI-powered, college-exclusive communication platform that centralizes campus interaction through verified institutional access.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=OTP-Verified+College+Community;Real-Time+Chat+%26+Video+Calling;AI-Powered+Content+Moderation;Announcements+%2B+Posts+%2B+Groups" alt="Typing SVG" />
